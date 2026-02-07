@@ -15,8 +15,8 @@ const App = () => (
       <Sonner />
 
       {/* ===== Scroll Dashed Animation (GLOBAL) ===== */}
-      <div className="scroll-dash"></div>
-      <div className="scroll-dash-right"></div>
+      {/* <div className="scroll-dash"></div>
+      <div className="scroll-dash-right"></div> */}
       {/* =========================================== */}
 
       <BrowserRouter>
